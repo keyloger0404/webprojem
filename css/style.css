@@ -1,0 +1,58 @@
+@charset "utf-8";
+.icerik {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 15px;
+	background-color: #FFF;
+}
+.yaziicerik {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 36px;
+}
+
+.altmenu {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 20px;
+	color: #FFF;
+	background-color: #014307;
+	text-align: center;
+}
+.altbilgi {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 20px;
+	color: #000;
+	text-align: center;
+}
+.renk {
+	color: #000;
+}
+
+
+
+.labelbaslik {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 20px;
+	color: #FFFFFF;
+	background-color: #01670a;
+}
+.baslik {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 24px;
+	color: #ffffff;
+	background-color: #01670a;
+	text-align: center;
+}
+a:link {
+	text-decoration: none;
+}
+
+
+
+
+/* CSS Document */
+body {
+	margin-left: 100px;
+	margin-top: 20px;
+}
+.altbilgi a:hover {
+	background-color: #014307;
+}
